@@ -438,3 +438,75 @@
 
 </tr>
 </table>
+
+<!--==========================================================================================-->
+<!-- GitHub Stats -->
+<h3 align="center">
+    🚀 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼 🚀
+</h3>
+
+<table align="center" style="width:100%; max-width:1200px; border-collapse: collapse;">
+    <tr>
+        <!-- GitHub Streak -->
+        <td align="center" valign="top" width="50%" style="padding: 2px;">
+            <h4 align="center">
+                🔥 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓻𝓮𝓪𝓴 🔥
+            </h4>
+            <img
+                src="https://streak-stats.demolab.com?user=hoanganhit&theme=tokyonight&hide_border=true&border_radius=12"
+                alt="GitHub Streak"
+                width="100%"
+                style="max-width:550px;"
+            />
+        </td>
+        <!-- Activity Graph -->
+        <td align="center" valign="top" width="50%" style="padding: 2px;">
+            <h4 align="center">
+                📈 𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂 𝓖𝓻𝓪𝓹𝓱 📈
+            </h4>
+            <img
+                src="https://github-readme-activity-graph.vercel.app/graph?username=hoanganhit&theme=tokyo-night&hide_border=true&radius=12"
+                alt="Activity Graph"
+                width="100%"
+                style="max-width:550px;"
+            />
+        </td>
+    </tr>
+</table>
+
+
+<!--==========================================================================================-->
+<!-- Snake Animation -->
+<h3 align="center">
+    🐍 𝓒𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓲𝓸𝓷 𝓢𝓷𝓪𝓴𝓮 🐍
+</h3>
+
+<div align="center">
+    <img 
+        src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" 
+        alt="Snake animation"
+    />
+</div>
+
+<!--==========================================================================================-->
+<!-- Dev Quote -->
+<h3 align="center">
+    💬 𝓓𝓮𝓿 𝓠𝓾𝓸𝓽𝓮 💬
+</h3>
+
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
+
+
+
+<!--==========================================================================================-->
+<!-- Support -->
+<h3 align="center">
+    ☕ 𝓢𝓾𝓹𝓹𝓸𝓻𝓽 𝓜𝓮 ☕
+</h3>
+
+<p align="center">
+    If you like my work, consider giving a ⭐ to my repositories.
+</p>
+
