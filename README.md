@@ -117,7 +117,7 @@
             <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="60"/>
         </td>
         <td align="center" width="86" height="86">
-            <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="60"/>
+            <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="70"/>
         </td>
         <td align="center" width="86" height="86">
             <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" width="60"/>
