@@ -157,9 +157,10 @@
 
 <table align="center" style="width:100%; max-width:1200px; border-collapse: collapse;">
     <tr>
-        <td align="center" width="33.33%" style="padding: 12px;">
+        <td align="center" width="33.33%" style="padding: 0px;">
             <img 
-                src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHk4YWkzdnZpbnBvdmszbDFjdnlnejlseng1eHZkMWJxMXA5bW9veiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wGWFVvwJybDwTlnTSS/giphy.gif" 
+                src="giphy_1.gif"
+                align="center"
                 alt="Hoanganh-IT"
                 width="100%"
                 style="
@@ -172,9 +173,10 @@
                 "
             />
         </td>
-        <td align="center" width="33.33%" style="padding: 12px;">
+        <td align="center" width="33.33%" style="padding: 0px;">
             <img 
-                src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" 
+                src="giphy_2.gif"
+                align="center"
                 alt="HoangAnh-IT"
                 width="100%"
                 style="
@@ -187,9 +189,10 @@
                 "
             />
         </td>
-        <td align="center" width="33.33%" style="padding: 12px;">
+        <td align="center" width="33.33%" style="padding: 0px;">
             <img 
-                src="giphy_3.gif" 
+                src="giphy_3.gif"
+                align="center"
                 alt="HoangAnh-IT"
                 width="100%"
                 style="
