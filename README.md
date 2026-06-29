@@ -1,5 +1,5 @@
 <!-- Banner -->
-<div align="center">
+<!-- <div align="center">
     <img 
         src="hoanganh-it.png" 
         alt="HoangAnh Banner"
@@ -7,7 +7,7 @@
         height="250px"
         style="object-fit: cover;"
     />
-</div>
+</div> -->
 
 <!--==========================================================================================-->
 <!-- About Me -->
